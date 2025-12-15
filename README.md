@@ -23,3 +23,7 @@ Each memo is self-contained and written to emphasize reasoning, assumptions, and
 ## Notes
 
 The systems described in these memos served as research instruments, enabling analysis of real-world challenges such as data sparsity, non-stationarity, and policy constraints. Where applicable, limitations and potential research extensions are explicitly discussed.
+
+## *Status note*  
+These documents describe exploratory research derived from real-world systems and are shared to provide context on problem formulation, methodology, and evaluation under practical constraints. The work has not yet been submitted for peer review and continues to evolve.
+
